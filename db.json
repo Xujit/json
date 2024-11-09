@@ -3,7 +3,7 @@
     "arrivalTime":"6:00 AM",
     "place":"Prestige Shantiniketan",
     "condition":"Picked up",
-    "icon": "Icons.circle",
+    "icon": "Icons.circle"
   },
   {
   "actualTime":"9:00 AM",
@@ -17,27 +17,27 @@
   "arrivalTime":"12:30 PM",
   "place":"Hopefarm",
   "condition":"Picked up",
-  "icon": "Icons.circle",
+  "icon": "Icons.circle"
   },
   {
   "actualTime":"3:00 PM",
   "arrivalTime":"3:15 PM",
   "place":"Kardugodi",
   "condition":"Picked up",
-  "icon": "Icons.circle",
+  "icon": "Icons.circle"
   },
   {
   "actualTime":"6:00 PM",
   "arrivalTime":"6:15 PM",
   "place":"Golden Blossom",
   "condition":"Yet to pick",
-  "icon": "Icons.circle",
+  "icon": "Icons.circle"
   },
   {
   "actualTime":"9:00 PM",
   "arrivalTime":"10:00 PM",
   "place":"Belathur",
   "condition":"Yet to pick",
-  "icon": "Icons.circle",
-  },
-  ];
+  "icon": "Icons.circle"
+  }
+  ]
